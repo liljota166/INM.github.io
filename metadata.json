@@ -1,0 +1,5 @@
+{
+  "name": "INMODOSA Interactive School Platform",
+  "description": "A modern, interactive proof-of-concept for a school platform named INMODOSA (Instituto Moderno Domingo Savio). It simulates roles for students, teachers, and directors with data persistence handled by localStorage.",
+  "requestFramePermissions": []
+}
